@@ -47,3 +47,8 @@ The smart monitor is built using the following physical components:
 4. Update the Wi-Fi credentials (SSID and PASSWORD) and Firebase configuration keys in the code.
 5. Connect your ESP32 board via USB, select the correct COM port, and click Upload.
 
+## 👤 Author
+**Delinda Mega Putri**
+- 🎓 Informatics Engineering, Universitas Muhammadiyah Sukabumi
+- 💼 [LinkedIn](https://www.linkedin.com/in/dlnmgp)
+- 📧 Email: delindamegaputri123@gmail.com
